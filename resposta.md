@@ -18,6 +18,7 @@ No Cubo 3 há dois N:N, em níveis diferentes:
 | Tipo de questão | Qtd | % | Marcações por resposta |
 |---|---|---|---|
 | `multipla_escolha` | 123 | 53,2 | exatamente 1 |
+| `caixas_de_selecao` | 80 | 34,6 | **1 a N** |
 | `numerica` / `aberta` | 25 | 10,8 | nenhuma, valor livre |
 | `matriz_avaliacao` | 3 | 1,3 | **1 a 96 células** |
 
